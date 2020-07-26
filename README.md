@@ -12,6 +12,6 @@ And the hardware based (RTL based) solution presented here takes the problem fro
 
 ![Hardware Bootloader](https://github.com/PulseRain/Hardware_Bootloader/raw/master/doc/hardware_bootloader.png "Hardware Bootloader")
 
-With this approach, a script will be executed on the host side, as shown below
+With this approach, a script will be executed on the host side to work with the hardware based bootloader inside FPGA, as shown below:
 
 ![MCU Config](https://github.com/PulseRain/Hardware_Bootloader/raw/master/doc/mcu_config.png "MCU Config")
